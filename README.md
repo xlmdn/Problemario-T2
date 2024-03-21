@@ -17,7 +17,7 @@ Este repositorio está dedicado a brindarte acceso a una variedad de algoritmos,
    El método de la secante es otro método iterativo para encontrar raíces de funciones reales. A diferencia del método de Newton-Raphson, no requiere el cálculo de la derivada de la función. En su lugar, aproxima la derivada con una secante formada por dos puntos consecutivos en la curva. Aunque puede ser menos eficiente en términos de convergencia que el método de Newton-Raphson, tiene la ventaja de no requerir el cálculo de la derivada, lo que lo hace más generalizable a una variedad más amplia de funciones.
 
 
-En este repositorio, encontrarás no solo la descripción teórica de cada método, sino también implementaciones prácticas en forma de programas y algoritmos. Además, se proporcionan pruebas de ejecución detalladas que te guiarán a través del proceso de aplicación de cada método, brindándote una comprensión profunda y práctica de su funcionamiento.
+En este repositorio, encontrarás no solo la descripción teórica de cada método, sino también implementaciones prácticas en forma de programas en java y algoritmos. Además, se proporcionan pruebas de ejecución detalladas que te guiarán a través del proceso de aplicación de cada método, brindándote una comprensión profunda y práctica de su funcionamiento.
 
 ## Contenido del Repositorio
 
