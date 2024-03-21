@@ -26,7 +26,7 @@ En este repositorio, encontrarás no solo la descripción teórica de cada méto
 - [Descripción](#descripción-bisección)
 - [Algoritmo](#algoritmo-bisección)
 - [Ejemplos](#ejemplo-bisección)
-- [Programa](./Metodo_GaussJordan/)
+- [Programa](./metodo_Biseccion/)
 
 
 ## Método Regla falsa
@@ -34,21 +34,21 @@ En este repositorio, encontrarás no solo la descripción teórica de cada méto
 - [Descripción](#descripción-regla-falsa)
 - [Algoritmo](#algoritmo-regla-falsa)
 - [Ejemplos](#ejemplo-regla-falsa)
-- [Programa](./metodo_GaussSeidel/)
+- [Programa](./metodo_ReglaFalsa/)
 
 ## Método Newton Raphson
 
 - [Descripción](#descripción-newton-raphson)
 - [Algoritmo](#algoritmo-newton-raphson)
 - [Ejemplos](#ejemplo-newton-raphson)
--  [Programa](./Eliminacion_gauss/)
+-  [Programa](./Newton/)
 
-## Método Jacobi
+## Método Secante
 
-- [Descripción](#descripción-jacobi)
-- [Algoritmo](#algoritmo-jacobi)
-- [Ejemplos](#ejemplos-jacobi)
-- [Programa](./MetodoJacobi/)
+- [Descripción](#descripción-secante)
+- [Algoritmo](#algoritmo-secante)
+- [Ejemplos](#ejemplo-secante)
+- [Programa](./Metodo%20de%20la%20secante/)
 ---
 
 ## Método de Bisección
